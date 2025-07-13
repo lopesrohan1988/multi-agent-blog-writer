@@ -6,3 +6,4 @@ langchain-community
 python-dotenv
 streamlit
 tavily-python
+langchain-google-community
